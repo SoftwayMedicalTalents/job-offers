@@ -1,6 +1,6 @@
 # Architecte / développeur⋅euse senior
 
-Experts en informatique de santé depuis 20 ans, nous recrutons deux profils architectes / développeurs⋅euses seniors pour relever nos nouveaux défis.
+Experts en informatique de santé depuis 20 ans, nous recrutons deux profils architectes pour relever nos nouveaux défis.
 
 ## Pourquoi rejoindre Softway Medical ?
 
